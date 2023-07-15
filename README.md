@@ -1,4 +1,4 @@
-# login_animation
+# Login Animation
 Login animation transition | ReactJS | Tailwind | CSS
 
 # Getting Started with Create React App
